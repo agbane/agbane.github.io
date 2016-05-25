@@ -1,3 +1,15 @@
-p{
-  font-size:25px;
+body{
+  background-color:blue;
+}
+h1 {
+  color:#E7ED26;
+}  
+h2{
+  color:#E7ED26;
+}
+p {
+  color:#E7ED26;
+}
+ul {
+  color:#E7ED26;
 }
