@@ -1,11 +1,15 @@
 h1{
-  color:Black;
-  font-size:30px;
+  color:Blue;
+  font-size: 25px;
+  font-style: normal;
+}
+body{
+  background-color:Orange;
 }
 p{ 
   font-size:20px;
-  color: Black;
-  width:50%;
+  color: blue;
+  width:100%;
   display:block;
 
 }
@@ -16,8 +20,22 @@ display:block;
 display:inline-block;
 width:40%;
 }
+#main{
+  display:inline-block;
+  width:40%;
+}
+
 iFrame{
   display:inline-block;
   width:40%;
-  
+}  
+h3{font-size:30px;
+display:block;
+color:red;
 }
+li{
+  font-size:30px;
+  display:block;
+  color:red;
+}
+
